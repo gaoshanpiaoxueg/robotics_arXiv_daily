@@ -55,5 +55,5 @@ jobs:
           commit-message: "Github Action Automatic Update CV Arxiv Papers"
           files: README.md docs/cv-arxiv-daily.json docs/cv-arxiv-daily-web.json docs/index.md docs/cv-arxiv-daily-wechat.json docs/wechat.md
           rebase: 'true'
-          name: ${{ env.GITHUB_USER_NAME }}
-          email: ${{ env.GITHUB_USER_EMAIL }}
+          name: ${{ env.gaoshanpiaoxue }}
+          email: ${{ env.gaoshanpiaoxue@gmail.com }}
